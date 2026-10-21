@@ -13,7 +13,12 @@ alwaysApply: true
 - Si el link es public o no funciona, el agente debera comentarlo y no hacer nada
 
 ## Diseño
-- Los diseños deben ser totalmentes distintos ENTRE DEMOS, no debe existir similitud.
+- Antes de diseñar, abre las demos ya existentes en la raíz y anota paleta, tipografía, layout y componentes de cada una.
+- Cada demo debe tener un diseño único, distinto y muy variado respecto de todas las demás. No debe compartir esqueleto visual.
+- El sistema visual sale del nicho: una clínica, un spa y una inmobiliaria no pueden verse como la misma plantilla con otros colores.
+- Cambia entre demos, de forma visible, la paleta, la familia tipográfica, la composición del inicio, la forma de los bloques y el carácter de los botones.
+- Queda prohibido repetir este molde: barra superior sobria, titular en serif, hero en dos columnas y secciones en lista editorial.
+- Dentro de un mismo cliente, Basic y Professional sí comparten estilo. Lo que cambia es la amplitud.
 - Crea diseños originales, premium y adaptados al nicho.
 - No copies el diseño de Linktree ni de las redes sociales.
 - Utiliza imágenes de calidad y genera imágenes cuando sea necesario.
@@ -82,5 +87,6 @@ inmobiliaria-ejemplo/
 - Comprueba que las pestañas alternen correctamente las versiones.
 - Verifica que Basic tenga exactamente 5 secciones.
 - Comprueba imágenes, enlaces y diseño responsive.
+- Confirma que la demo nueva no repite paleta, tipografía ni composición de las demos ya creadas, y que el resultado se reconoce como propio de ese nicho.
 - Asegúrate de que cada demo utilice sus propios recursos.
 - Informa la carpeta creada y cómo visualizar el resultado.
